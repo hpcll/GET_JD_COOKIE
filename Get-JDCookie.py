@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 import asyncio
-from socket import timeout
 import pyperclip
 import os
 from pyppeteer import launch
