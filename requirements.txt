@@ -1,8 +1,7 @@
 beautifulsoup4
-requests>=2.20.0
-pycryptodome==3.6.6
+requests
+pycryptodome
 pandas
-openpyxl==3.0.7
-
-pyperclip~=1.8.2
-pyppeteer~=1.0.2
+openpyxl
+pyperclip
+pyppeteer
